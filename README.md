@@ -2,7 +2,7 @@
 Made purely for entertainment purposes, I am not responsible for any abuse
 
 # Usage
-1.Download DGS [dgs](https://github.com/thisdp/dgs/tree/master)
+1.[Download DGS](https://github.com/thisdp/dgs/tree/master)
 2.Download Cheat
 3.Start DGS
 4.Start Cheat
