@@ -1,0 +1,15 @@
+<meta>
+	<info author="VSCode MTA:SA Lua" type="script" name="ch" />
+
+	<script src="g_ch.lua" type="client" cache="false" />
+	<script src="c_ch.lua" type="client" cache="false" />
+	<script src="s_ch.lua" type="server" />
+
+
+	<!-- All -->
+	<file src="files/font.otf" /> 
+	<file src="files/view.png" /> 
+	<file src="files/misc.png" /> 
+	<file src="files/weapon.png" /> 
+	<file src="files/settings.png" /> 
+</meta>
