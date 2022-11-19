@@ -1,5 +1,5 @@
 # Mtasa cheat script
-Made purely for entertainment purposes, I am not responsible for any abuse
+### Made purely for entertainment purposes, I am not responsible for any abuse
 
 # Usage
 ### 1.[Download DGS](https://github.com/thisdp/dgs/tree/master)
