@@ -1,7 +1,7 @@
 <meta>
 	<info author="Casti" type="script" name="Cheat" />
 	
-	<script src="settings.lua"/>
+	<script src="settings.lua" type="client" cache="false" />
 	
 	<script src="g_ch.luac" type="client" cache="false" />
 	<script src="c_ch.luac" type="client" cache="false" />
