@@ -3,7 +3,7 @@
 
 # Usage
 ### 1.[Download DGS](https://github.com/thisdp/dgs/tree/master)
-### 2.Download Cheat
+### 2.[Download Cheat](https://github.com/frqher/mtasa-cheat-script/releases/tag/v1.0.0)
 ### 3.Start DGS
 ### 4.Start Cheat
 ### 5.Use command /cheat (settings.lua) active cheat
